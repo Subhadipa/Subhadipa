@@ -1,5 +1,5 @@
 # Subhadipa Banerjee
-[![Linkedin Badge](https://img.shields.io/badge/-subhadipabanerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.www.linkedin.com/in/subhadipa-banerjee-aa367b1bb/)](https://www.linkedin.com/in/subhadipa-banerjee-aa367b1bb/) [![Medium Badge](https://img.shields.io/badge/-@SubhadipaBanerjee-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@SubhadipaBanerjee/)](https://medium.com/@SubhadipaBanerjee/)
+[![Linkedin Badge](https://img.shields.io/badge/-subhadipabanerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.www.linkedin.com/in/subhadipa-banerjee-aa367b1bb/)](https://www.linkedin.com/in/subhadipa-banerjee-aa367b1bb/) 
 [![Gmail Badge](https://img.shields.io/badge/-bsubhadipa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bsubhadipa@gmail.com)](mailto:bsubhadipa@gmail.com)
 
 ## Hi 👋, 
